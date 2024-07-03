@@ -31,6 +31,8 @@ notion: [notion](https://rust-tea-979.notion.site/8b532b05f3dd48159d475af60015b6
 ### Paper
 [**Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing (CVPR2024)**](https://github.com/hannixxxoh/CVPR2024_Person-In-Place_RELEASE)
 
+### Algorithm
+
 ### Undergraduate Courses & Project
 * [Algorithm](https://github.com/ohsy0512/CS-basic/tree/main/Algorithm)
 * [DataStructure](https://github.com/ohsy0512/CS-basic/tree/main/Data%20Structure)
