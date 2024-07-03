@@ -1,6 +1,6 @@
 ### Hi, I'm Hanni Oh 👋
-~2023.02 Bigdata Science at Sogang Univ.<br/>
-2023.09~ Artificial Intelligence at Sogang Univ., Vision and Display Systems Lab (VDSL)
+\~2023.02 Bigdata Science at Sogang Univ.<br/>
+2023.09\~ Artificial Intelligence at Sogang Univ., Vision and Display Systems Lab (VDSL)
 
 ### Homepage
 https://hannixxxoh.github.io/
